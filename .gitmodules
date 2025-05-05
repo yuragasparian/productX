@@ -1,0 +1,6 @@
+[submodule "productX-admin"]
+	path = productX-admin
+	url = https://github.com/yuragasparian/productX-admin.git
+[submodule "productX-server"]
+	path = productX-server
+	url = https://github.com/yuragasparian/productX-server.git
