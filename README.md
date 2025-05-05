@@ -10,7 +10,7 @@
 
 ## 🔗 Live URLs
 
-- **Admin Panel (Frontend)**: [https://product-x-admin-6qlk.vercel.app/](https://product-x-admin-6qlk.vercel.app/)
+- **Admin Panel (Frontend)**: [https://product-x-admin-6qlk.vercel.app/](https://product-x-admin.vercel.app/)
 - **API Server (Backend)**: [https://productx-server-37017490781.us-central1.run.app](https://productx-server-37017490781.us-central1.run.app)
 
 ---
